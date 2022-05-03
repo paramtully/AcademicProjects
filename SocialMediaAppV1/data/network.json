@@ -1,0 +1,132 @@
+{"people": [
+    {
+        "password": "123",
+        "friendIDs": [
+            916634726,
+            799373953
+        ],
+        "messageThreads": [{
+            "messages": [{
+                "personID": 898416748,
+                "communication": "hi Peter"
+            }],
+            "personIDs": [
+                898416748,
+                799373953
+            ]
+        }],
+        "hobbies": [
+            "sleeping",
+            "waking up early haha"
+        ],
+        "sex": "male",
+        "profile": {
+            "bio": "something about school",
+            "posts": [
+                {
+                    "date": "Tue Nov 16 20:53:47 PST 2021",
+                    "post": "testing the app"
+                },
+                {
+                    "date": "Tue Nov 16 20:54:39 PST 2021",
+                    "post": "watching a movie"
+                },
+                {
+                    "date": "Tue Nov 16 22:03:26 PST 2021",
+                    "post": "adding some extra posts"
+                },
+                {
+                    "date": "Tue Nov 16 22:03:37 PST 2021",
+                    "post": "something about basketball"
+                },
+                {
+                    "date": "Tue Nov 16 22:03:46 PST 2021",
+                    "post": "spam"
+                },
+                {
+                    "date": "Tue Nov 16 22:03:56 PST 2021",
+                    "post": "One extra for good luck"
+                },
+                {
+                    "date": "Tue Nov 16 22:04:07 PST 2021",
+                    "post": "ok im done now"
+                },
+                {
+                    "date": "Tue Nov 16 22:06:21 PST 2021",
+                    "post": "nevermind i need more"
+                },
+                {
+                    "date": "Tue Nov 16 22:06:36 PST 2021",
+                    "post": "spiderman trailer looked good"
+                },
+                {
+                    "date": "Tue Nov 16 22:07:12 PST 2021",
+                    "post": "i need to start sleeping earlier"
+                },
+                {
+                    "date": "Wed Nov 17 15:14:59 PST 2021",
+                    "post": "worked"
+                },
+                {
+                    "date": "Wed Nov 17 17:31:32 PST 2021",
+                    "post": "another post"
+                },
+                {
+                    "date": "Thu Nov 18 10:08:44 PST 2021",
+                    "post": "Demo post"
+                },
+                {
+                    "date": "Mon Nov 22 22:45:21 PST 2021",
+                    "post": "i think its time for me to sleep"
+                },
+                {
+                    "date": "Mon Nov 22 22:49:09 PST 2021",
+                    "post": "go to sleep please"
+                }
+            ]
+        },
+        "name": "Param",
+        "age": 20
+    },
+    {
+        "password": "123",
+        "friendIDs": [
+            898416748,
+            799373953
+        ],
+        "messageThreads": [],
+        "hobbies": [],
+        "sex": "male",
+        "profile": {
+            "bio": "",
+            "posts": []
+        },
+        "name": "Logan",
+        "age": 20
+    },
+    {
+        "password": "123",
+        "friendIDs": [
+            898416748,
+            916634726
+        ],
+        "messageThreads": [{
+            "messages": [{
+                "personID": 898416748,
+                "communication": "hi Peter"
+            }],
+            "personIDs": [
+                898416748,
+                799373953
+            ]
+        }],
+        "hobbies": [],
+        "sex": "male",
+        "profile": {
+            "bio": "",
+            "posts": []
+        },
+        "name": "Peter",
+        "age": 20
+    }
+]}

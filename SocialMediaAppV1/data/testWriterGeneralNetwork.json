@@ -1,0 +1,73 @@
+{"people": [
+    {
+        "password": "123",
+        "friendIDs": [-563401079],
+        "messageThreads": [{
+            "messages": [
+                {
+                    "personID": -563401079,
+                    "communication": "Hi, how are you!"
+                },
+                {
+                    "personID": 364758315,
+                    "communication": "I'm doing great, thanks for asking!"
+                }
+            ],
+            "personIDs": [
+                -563401079,
+                364758315
+            ]
+        }],
+        "hobbies": [
+            "basketball",
+            "watching movies"
+        ],
+        "sex": "male",
+        "profile": {
+            "bio": "Studying at UBC",
+            "posts": [
+                {
+                    "date": "Fri Oct 29 15:32:10 PDT 2021",
+                    "post": "I have 2 exams tomorrow"
+                },
+                {
+                    "date": "Fri Oct 29 15:32:17 PDT 2021",
+                    "post": "I need more sleep"
+                }
+            ]
+        },
+        "name": "John",
+        "age": 20
+    },
+    {
+        "password": "321",
+        "friendIDs": [364758315],
+        "messageThreads": [{
+            "messages": [
+                {
+                    "personID": -563401079,
+                    "communication": "Hi, how are you!"
+                },
+                {
+                    "personID": 364758315,
+                    "communication": "I'm doing great, thanks for asking!"
+                }
+            ],
+            "personIDs": [
+                -563401079,
+                364758315
+            ]
+        }],
+        "hobbies": ["tennis"],
+        "sex": "female",
+        "profile": {
+            "bio": "",
+            "posts": [{
+                "date": "Fri Oct 27 11:32:10 PDT 2021",
+                "post": "I need to wake up early tomorrow"
+            }]
+        },
+        "name": "Doe",
+        "age": 20
+    }
+]}
